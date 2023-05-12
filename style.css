@@ -1,0 +1,22 @@
+
+/* Have website have dark Background */
+body {
+    background-color: black;
+}
+
+/*Make sure the title and list text is visible*/
+.title-text,
+.list-items {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/*Make title text large*/
+.title-text {
+    font-size: 40px;
+}
+
+/*Make the list items large*/
+.list-items {
+    font-size: 25px;
+}
